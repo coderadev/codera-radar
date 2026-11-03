@@ -2,7 +2,7 @@
 <img width="1916" height="1079" alt="image" src="https://github.com/user-attachments/assets/bbc645ac-6eb2-4b41-a298-7191718fcbe7" />
 
 
-Police radar for FiveM (QBCore / QBX / ESX). Works as a single resource, no extra keybind resource needed.
+Police radar for FiveM (QBCore / QBX / ESX). 
 
 ## Install
 
